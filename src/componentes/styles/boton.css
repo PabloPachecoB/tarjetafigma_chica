@@ -1,0 +1,11 @@
+.boton
+{
+
+background-color: #046BA5;
+width: 242px;
+height: 48px;
+border-radius: 12px;
+position: relative;
+top: -10px;
+left: -5px;
+}

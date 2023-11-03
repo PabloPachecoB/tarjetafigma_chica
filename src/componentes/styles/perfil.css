@@ -1,0 +1,10 @@
+
+.perfil {
+    /* margin-top: auto; */
+    border-color: #ffff;
+    border-radius: 52px;
+    border: 6px solid white;
+    position: relative;
+    top: -40px;
+    left: 30px;
+}

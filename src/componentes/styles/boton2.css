@@ -1,0 +1,15 @@
+.boton2 {
+    background-color: rgba(4, 107, 165, 0.2);
+    width: 51.12px;
+    height: 48.43px;
+    border-radius: 12px;
+    position: relative;
+    top: -10px;
+    left: 3px;
+  }
+  
+  
+  .i{
+      position: relative;
+      left: -3px;
+  }

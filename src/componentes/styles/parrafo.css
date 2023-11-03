@@ -1,0 +1,9 @@
+ .parrafo {
+        color: #000000;
+        font-family: "Roboto", sans-serif;
+        font-size: 12px;
+        position: relative;
+        line-height: 1.1;
+        margin: 13px;
+        top: -22px;
+      }
